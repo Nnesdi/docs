@@ -22,9 +22,9 @@ Upon closer inspection, you'll notice that we used three out of the four availab
 
 To create and apply this pattern, you simply need to add a row to the floor Data Table and select in the pattern section in the HDA-Details Panel. It will look like this:
 ![](<images/Pattern Example01.png>)
+(Note: The fields for CornerPiece and Height are left empty for demonstration purposes. For more details on Data Tables, refer to this [guide](add-new-items.md)).
 
 ![](<images/Pattern Example01 apply.png>)
-(Note: The fields for CornerPiece and Height are left empty for demonstration purposes. For more details on Data Tables, refer to this [guide](add-new-items.md)).
 
 
 ## Special characters aka *the syntax*
@@ -35,7 +35,7 @@ When defining the floor string and entering the floor name in the pattern field,
 |---|---|
 |<  >|Repeat until you run out of space|
 |[  ]|Place exactly one, or use []2, to place exactly 2 etc.|
-| - | Used to alternate between two or more modules. (E.g. A-B = ABAB usw.)|
+| - | Used to alternate between two or more modules. (E.g. A-B = ABAB etc.)|
 |*|Use variations of this Asset. <br>If you have for example different window types you can use Window* to indicate that you want to also use those variations.|
 
 > [!Important]
