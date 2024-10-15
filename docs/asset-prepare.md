@@ -22,9 +22,11 @@ Shapes like this would technically work, but I wouldn’t recommend using them, 
 
 ![](<images/Pivot Example01.png>)
 ![](<images/Doku Pivot Example.png>)
-The pivot should be positioned precisely at the front left corner, as shown in the images. This pivot, combined with the asset length, will determine the placement of the walls.
+The pivot should be positioned precisely at the front right corner, as shown in the images. This pivot, combined with the asset length, will determine the placement of the walls.
 
 If you notice any gaps or overlapping walls, be sure to check the pivot point.
+
+If the orientation seems of, try to rotate the asset. 
 
 ## Size of the modules
 
