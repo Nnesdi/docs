@@ -10,7 +10,7 @@ The Structure of the Data Tables is defined by the ST_Modules and ST_Floor Struc
 
 |ST_Modules|ST_Floor|
 |---|:---|
-|![](/images/ST-Meshes.png)|![](/images/ST-Floors)|
+|![](/images/ST-Meshes.png)|![](/images/ST-Floors.png)|
 
 
 
